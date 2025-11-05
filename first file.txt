@@ -9,9 +9,30 @@ first file
 
 
 
+<<<<<<< Updated upstream
 
 
 // Bug 153 Fixed
+=======
+
+<scrip>
+
+   function logic(){
+
+
+	}
+
+
+</script>
+
+
+
+
+
+
+
+//// BUG No 101  logc 2
+====================
 <scrip>
 
    function logic(){
