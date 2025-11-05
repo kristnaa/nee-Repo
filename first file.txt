@@ -8,3 +8,15 @@ first file
 -> next line added
 
 
+
+
+
+// Bug 153 Fixed
+<scrip>
+
+   function logic(){
+
+
+	}
+
+</script>
