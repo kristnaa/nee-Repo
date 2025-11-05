@@ -8,24 +8,3 @@ first file
 -> next line added
 
 
-
-
-<scrip>
-
-   function logic(){
-
-
-	}
-
-</script>
-
-
-// logc 2
-<scrip>
-
-   function logic(){
-
-
-	}
-
-</script>
