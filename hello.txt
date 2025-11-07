@@ -1,6 +1,7 @@
 
 Bug number 130
 ===============
+
 1
 2
 3
@@ -8,3 +9,13 @@ Bug number 130
 5
 6
 ----- 10 // Completed
+
+
+Bug number 101
+==============
+>>>>>>> Stashed changes
+1
+2
+3
+4
+5 // Incomplete or INprogress
